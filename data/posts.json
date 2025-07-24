@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "author": "John Doe",
+    "title": "First Post",
+    "content": "This is my first blog post!",
+    "likes": 3
+  },
+  {
+    "id": 2,
+    "author": "Jane Smith",
+    "title": "Another Day",
+    "content": "Just sharing a few thoughts from today.dd"
+  },
+  {
+    "id": 3,
+    "author": "Alex Lee",
+    "title": "Flask is Fun",
+    "content": "I'm learning Flask and it's awesome!"
+  }
+]
